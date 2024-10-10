@@ -52,7 +52,8 @@ Resultado: -7.00
 
 ## 🔧 Estrutura do Código
 
-#### Pilha: Utilizada para armazenar operadores e operandos durante a conversão e avaliação da expressão.
+#### Pilha:
+Utilizada para armazenar operadores e operandos durante a conversão e avaliação da expressão.
 A estrutura da pilha é definida por um array e um ponteiro topo que indica a posição mais alta.
 
 #### Funções:
