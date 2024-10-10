@@ -9,15 +9,18 @@ Este projeto é uma calculadora que converte expressões matemáticas infixas (c
 O algoritmo converte uma expressão matemática em notação infixa (por exemplo, 3 + 5 * (2 - 4)) para notação pós-fixa (3 5 2 4 - * +).
 
 2. Avaliação de Expressão Pós-fixa:
+
 Após a conversão, a expressão pós-fixa é avaliada para retornar o resultado matemático.
 
 3. Suporte para Operações:
+
 Soma (+)
 Subtração (-)
 Multiplicação (*)
 Divisão (/)
 
 4. Correção de Erros de Arredondamento:
+
 Implementação ajustada para corrigir possíveis erros de arredondamento, especialmente em operações com números decimais.
 
 ## 🛠️ Como Compilar e Executar
