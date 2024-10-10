@@ -57,11 +57,15 @@ Utilizada para armazenar operadores e operandos durante a conversão e avaliaç�
 A estrutura da pilha é definida por um array e um ponteiro topo que indica a posição mais alta.
 
 #### Funções:
-inicializarPilha: Inicializa a pilha.
-empilhar e desempilhar: Manipulam a pilha para adicionar e remover elementos.
-infixaParaPosfixa: Converte a expressão infixa para pós-fixa.
-expressaoPosfixa: Avalia a expressão pós-fixa e retorna o resultado.
-imprimirPosfixa: Imprime a expressão na notação pós-fixa.
+1. inicializarPilha: Inicializa a pilha.
+
+2. empilhar e desempilhar: Manipulam a pilha para adicionar e remover elementos.
+
+3. infixaParaPosfixa: Converte a expressão infixa para pós-fixa.
+
+4. expressaoPosfixa: Avalia a expressão pós-fixa e retorna o resultado.
+
+5. imprimirPosfixa: Imprime a expressão na notação pós-fixa.
 
 ## 📌 Observações Importantes
 
